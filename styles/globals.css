@@ -14,3 +14,11 @@ a {
 * {
   box-sizing: border-box;
 }
+
+:root {
+  --easyKetoGreen: #00ce32;
+  --easyKetoDarkGreen: #008824;
+  --easyKetoVeryDarkGreen: #00380e;
+  --easyKetoGrey: #252525;
+  --easyKetoLightGrey: #464646;
+}
